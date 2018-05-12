@@ -1,0 +1,34 @@
+_repo: Die--btissin-von-Castro_14330
+_version: 0.1.0
+alternative_title: L'Abbesse de Castro. German
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Marie-Henri Beyle
+    - Beyle, Marie Henri
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia: http://en.wikipedia.org/wiki/Stendhal
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14330'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- !lcsh 'Italy -- Fiction'
+title: Die Äbtissin von Castro
+url: http://www.gutenberg.org/ebooks/14330
